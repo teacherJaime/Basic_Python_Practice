@@ -1,4 +1,4 @@
-#ATM
+#ATM: Simulates an automated teller machine
 print("Welcome to the ATM")
 
     # Initial information
@@ -9,7 +9,7 @@ daily_limit = int(500)
 password = input("Please enter your password: ")
 attempts = 3
 access = False
-
+    #Performs security check for password and allows user to access ATM operations if correct password is entered.
 while attempts > 0 and not access:
     if password == "1234":  # Replace "1234" with the actual password
             access = True

@@ -1,3 +1,4 @@
+#Greater than: Determines which number is greater.
 num1 = int(input("Insert the first number: "))
 num2 = int(input("Insert the second number: "))
 if num1 > num2:

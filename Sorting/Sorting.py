@@ -1,7 +1,7 @@
 #SORTING IN PYTHON
 #V contains the list of numbers to be sorted
 v = [5, 2, 7, 1, 8, 3, 6, 4]
-#i is the index variable used to transit the list
+#i is the index variable used to cycle through the list
 i = 0
 #while loop is used to iterate through the list until the end of the list is reached
 #len function is used to get the length of the list

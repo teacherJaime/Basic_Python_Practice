@@ -1,3 +1,4 @@
+#Function that returns a value: Calculates the area of a rectangle.
 def area(base, height):
     return base * height
 

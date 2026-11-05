@@ -1,3 +1,4 @@
+#Average: Calculates the average of three grades.
 g1 = float(input("Insert grade 1: "))
 g2 = float(input("Insert grade 2: "))
 g3 = float(input("Insert grade 3: "))
